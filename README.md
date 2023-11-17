@@ -1,6 +1,6 @@
-# Discord Music Bot
+# Discord Moderation Bot
 
-_This is a discord music bot made by Fayaz and built on top of `discord.js`._
+_This is a discord moderation bot made by Fayaz and built on top of `discord.js`._
 
 ## SetUp Guide
 
