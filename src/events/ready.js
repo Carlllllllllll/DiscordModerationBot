@@ -17,3 +17,6 @@ module.exports = {
     );
   },
 };
+setInterval(() => client.user.setActivity({ 
+  name: `Your Server 🧐 `, 
+  type: ActivityType.Watching }), 4000);
